@@ -10,7 +10,7 @@ for i in range(N):
 
 print(max(min_arr))
 
-# # 개선된 버전
+# 개선된 버전
 N, M = map(int, input().split())
 result = 0
 
